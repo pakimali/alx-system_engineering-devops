@@ -1,0 +1,3 @@
+#!/bin/bash
+mktemp -d -t vi-my_first_directory
+
